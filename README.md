@@ -53,6 +53,6 @@ Now, here are a few recommendations based on those observations:
 - Keeping a record of employees working overtime and setting limits of how many extra hours one should work until the cause is investigated and action is taken to support them.
 - Reestructuring company policy for promotions to prioritize better performance evaluation and company time, with special atention to employees nearing 4 years in company time.
 
-## Next Steps:
+### Next Steps:
 
 The satisfaction level survey showed good correlation to turnover, meaning they were applied in a way employees felt confortable in answering truthfully, but making use of that only for ratings seems a wasted opportunity. When applying future surveys, asking employees directly for their opinions, experiences and suggestions in order to make use of natural language processing to identify padrons in their responses might be a good idea. This could give interesting insights we wouldn't be able to reach using only company data.
