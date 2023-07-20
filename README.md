@@ -55,4 +55,4 @@ Now, here are a few recommendations based on those observations:
 
 ### Next Steps:
 
-The satisfaction level survey showed good correlation to turnover, meaning they were applied in a way employees felt confortable in answering truthfully, but making use of that only for ratings seems a wasted opportunity. When applying future surveys, asking employees directly for their opinions, experiences and suggestions in order to make use of natural language processing to identify padrons in their responses might be a good idea. This could give interesting insights we wouldn't be able to reach using only company data.
+The satisfaction level survey showed good correlation to turnover, meaning it was applied in a way employees felt confortable in answering truthfully, but making use of that only for ratings seems a wasted opportunity. When applying future surveys, asking employees directly for their opinions, experiences and suggestions in order to make use of natural language processing to identify padrons in their responses might be a good idea. This could give interesting insights we wouldn't be able to reach using only company data.
