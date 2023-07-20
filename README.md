@@ -10,7 +10,7 @@ This was developed as the capstone project for the Google Advanced Data Analytic
 
 Employee turnover can be a huge problem for companies as it's both time consuming and costly to post job listings, interview candidates, hire new employees and offer them proper training. Work quality also decreases during this process, affecting team morale and client perception. Therefore, it is in the company's best interest to increase employee retention.
 
-#### Data Understanding:
+### Data Understanding:
 
 The dataset used in this project was originally called "Hr Analytics Job Prediction", and can be found in [Kaggle](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv). Data consists of 15k observations, with around 20% being duplicates, and 10 columns, including our target. After removing duplicates, the target ended with a turnover rate of 16.6%, indicating a moderate imbalance. During EDA a few outilers (824 rows or 6.87% of total observations) were found in the company time feature and an ethical concern was raised in the work accident feature, causing it to be removed from the analysis.
 
