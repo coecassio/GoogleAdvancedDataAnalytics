@@ -1,4 +1,4 @@
-## Salifort Motors Capstone Project
+## Salifort Motors Employee Turnover Capstone Project
 Analysing and Predicting Employee Turnover 
 
 
