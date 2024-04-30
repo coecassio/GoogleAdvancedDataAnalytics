@@ -4,7 +4,7 @@ Analysing and Predicting Employee Turnover
 
 ### Project Overview:
 
-This was developed as the capstone project for the Google Advanced Data Analytics Course. The goal was to analyse a [Kaggle](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv) dataset and build predictive models to provide the HR of a fictional company, Salifort Motors, with insights regarding their high employee turnover problem. The final Random Forest model performed with 97.6% Accuracy and 92.8% F1 Score when predicting employee turnover, determining the 4 most important features being number of projects taken, average monthly hours worked, result of last employee evaluation and company time. EDA also indicated 2 other features, promotions and salary range, that weren't good predictors due to their extremely imbalaced distributions, but could be used as tools to reduce turnover.
+This was developed as the capstone project for the Google Advanced Data Analytics Course. The goal was to analyse a [Kaggle](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv) dataset and build predictive models to provide the HR of a fictional company, Salifort Motors, with insights regarding their high employee turnover problem. The final Random Forest model performed with 97.6% Accuracy and 92.8% F1 Score when predicting employee turnover, determining the 4 most important features being number of projects taken, average monthly hours worked, result of last employee evaluation and company time. EDA also indicated 2 other features, promotions and salary range, that weren't good predictors due to their extremely imbalanced distributions, but could be used as tools to reduce turnover.
 
 ### Business Understanding:
 
@@ -39,7 +39,7 @@ with the importance of other features being very low.
 
 The tuned model could be used as a predictive tool to identify employees that are likely to quit soon for tentative emergency action, but it should be done only be as a temporary measure, until steps are taken to correct the problems causing the high turnover rate.
 
-Even though salary and promotion were not considered important features by the model, their imbalaced distributions make them unreliable features for splitting data in decision nodes. EDA showed they do affect the turnover rates and should be considered when planning a response to this issue.
+Even though salary and promotion were not considered important features by the model, their imbalanced distributions make them unreliable features for splitting data in decision nodes. EDA showed they do affect the turnover rates and should be considered when planning a response to this issue.
 
 By combining the insights of the model's feature importance values and EDA, a few elements became clear:
 
