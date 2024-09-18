@@ -4,7 +4,7 @@ Analysing and Predicting Employee Turnover
 
 ### Project Overview:
 
-This was developed as the capstone project for the Google Advanced Data Analytics Course. The goal was to analyse a [Kaggle](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv) dataset and build predictive models to provide the HR of a fictional company, Salifort Motors, with insights regarding their high employee turnover problem. The final Random Forest model performed with 97.6% Accuracy and 92.8% F1 Score when predicting employee turnover, determining the 4 most important features being number of projects taken, average monthly hours worked, result of last employee evaluation and company time. EDA also indicated 2 other features, promotions and salary range, that weren't good predictors due to their extremely imbalanced distributions, but could be used as tools to reduce turnover.
+This was developed as the capstone project for the Google Advanced Data Analytics Course. The goal was to analyse a [Kaggle](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv) dataset and build a predictive model to provide insights to the HR of Salifort Motors regarding their high employee turnover problem. The final Random Forest model performed with 97.6% Accuracy and 92.8% F1 Score when predicting employee turnover, determining the 4 most important features being number of projects taken, average monthly hours worked, result of last employee evaluation and company time. EDA also indicated 2 other features, promotions and salary range, that weren't good predictors due to their extremely imbalanced distributions, but could be used as tools to reduce turnover.
 
 ### Business Understanding:
 
@@ -49,7 +49,7 @@ By combining the insights of the model's feature importance values and EDA, a fe
 
 Now, here are a few recommendations based on those observations:
 
-- Capping the number of projects each employee can work on, so it can't be higher than at least 5.
+- Capping the number of projects each employee can work on, so it can't be higher than 5.
 - Keeping a record of employees working overtime and setting limits of how many extra hours one should work until the cause is investigated and action is taken to support them.
 - Restructuring company policy for promotions to prioritize better performance evaluation and company time, with special attention to employees nearing 4 years in company time.
 
